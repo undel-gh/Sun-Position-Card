@@ -37,7 +37,7 @@ export default {
       pouring: "Lluvia intensa",
       rainy: "Lluvia",
       snowy: "Nieve",
-      snowy-rainy: "Nieve y lluvia",
+      "snowy-rainy": "Nieve y lluvia",
       sunny: "Soleado",
       windy: "Ventoso",
       "windy-variant": "Ventoso",
